@@ -41,6 +41,4 @@ I architect Java systems that don’t just work — they survive Black Friday, m
 
 > *If your database runs slowly, I don't just add an index. I find out why your ORM decided to fetch the entire table twice, on a Tuesday, for no reason.*
 
----
 
-*P.S. When I'm not optimizing heap dumps, you'll find me restoring vintage motorcycles. Turns out debugging a 1978 engine isn't that different from fixing multi-threaded race conditions — both require patience, the right tools, and a decent amount of cursing.*
