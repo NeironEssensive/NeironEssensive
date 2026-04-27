@@ -30,15 +30,6 @@ I architect Java systems that don’t just work — they survive Black Friday, m
 
 ---
 
-### 🏆 Highlight Reel
-
-**Distributed Order Processing Engine** — *Personal Sandbox / Production-like*
-- Slashed average API response time by **40%** by redesigning the data access layer and slaying N+1 queries.
-- Handles **5k+ concurrent virtual threads** on Java 21 without breaking a sweat.
-- Implemented a custom Kafka retry mechanism that recovered **99.8%** of transient failures automatically — no more 2 AM alerts.
-
----
-
 ### 📡 Find Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](t.me/NeironEssensive)
