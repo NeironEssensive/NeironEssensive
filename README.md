@@ -32,7 +32,7 @@ I architect Java systems that don’t just work — they survive Black Friday, m
 
 ### 📡 Find Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](t.me/NeironEssensive)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([t.me/NeironEssensive](http://t.me/NeironEssensive))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aglushak10@gmail.com)
 
 ---
