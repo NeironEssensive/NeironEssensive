@@ -24,8 +24,7 @@ I architect Java systems that don’t just work — they survive Black Friday, m
 ### 📊 Battle Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NeironEssensive&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeironEssensive&layout=compact&theme=tokyonight&hide_border=true" />
+  
 </p>
 
 ---
@@ -33,11 +32,4 @@ I architect Java systems that don’t just work — they survive Black Friday, m
 ### 📡 Find Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NeironEssensive)
-
----
-
-### 🔥 Hot Take
-
-> *If your database runs slowly, I don't just add an index. I find out why your ORM decided to fetch the entire table twice, on a Tuesday, for no reason.*
-
 
