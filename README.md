@@ -23,9 +23,11 @@ I architect Java systems that don’t just work — they survive Black Friday, m
 
 ### 📊 Battle Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeironEssensive&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NeironEssensive&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeironEssensive&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeironEssensive&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeironEssensive&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
