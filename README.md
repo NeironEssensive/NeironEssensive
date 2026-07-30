@@ -1,8 +1,8 @@
 # Hey, I'm Alex 👨‍💻
 
-**Backend Engineer who treats servers like high-maintenance pets — keep them fed, clean, and never let them crash at 3 AM.**
+**Backend Engineer specializing in Java and Spring.**
 
-I architect Java systems that don’t just work — they survive Black Friday, messy data migrations, and that one junior dev who loves `SELECT *` on production. Currently seeking a team where code review isn't a formality and performance tuning is a sport.
+I build systems that hold up under real production conditions — traffic spikes, messy migrations, concurrent load — not just in a demo. I care about clean architecture, rigorous code review, and performance that's actually measured. Currently looking for a team that holds itself to the same bar.
 
 ---
 
