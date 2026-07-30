@@ -23,10 +23,18 @@ I architect Java systems that don’t just work — they survive Black Friday, m
 
 ### 📊 Battle Stats
 
-<a href="https://github.com/NeironEssensive">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeironEssensive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeironEssensive&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NeironEssensive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NeironEssensive&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NeironEssensive&theme=dracula&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeironEssensive&theme=dracula&hide_border=true&area=true" alt="Contribution activity" />
+</p>
 
 ---
 
